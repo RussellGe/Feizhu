@@ -1,0 +1,96 @@
+{
+    "ret": true,
+    "data": {
+        "swiperImgs": [
+            {
+                "id": "01",
+                "imgUrl": "https://gw.alicdn.com/tfs/TB1yPhJepY7gK0jSZKzXXaikpXa-1125-352.jpg"
+            }, {
+                "id": "02",
+                "imgUrl": "https://gw.alicdn.com/tfs/TB1f1gPdQP2gK0jSZPxXXacQpXa-1125-352.jpg"
+            }, {
+                "id": "03",
+                "imgUrl": "https://gw.alicdn.com/tfs/TB1ec1ZeuL2gK0jSZPhXXahvXXa-1125-352.jpg"
+            }
+        ],
+        "iconImgs": [
+            {
+                "id": "01",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1DoXFwHsrBKNjSZFpXXcXhFXa-210-126.png_110x10000.jpg",
+                "desc": "机票"
+            }, {
+                "id": "02",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1s51ECuOSBuNjy0FdXXbDnVXa-210-126.png_110x10000.jpg",
+                "desc": "酒店"
+            }, {
+                "id": "03",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1BNE_wrZnBKNjSZFrXXaRLFXa-210-126.png_110x10000.jpg",
+                "desc": "火车票"
+            }, {
+                "id": "04",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1pN01wsUrBKNjSZPxXXX00pXa-210-126.png_110x10000.jpg",
+                "desc": "汽车票"
+            }, {
+                "id": "05",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1VZqNCuSSBuNjy0FlXXbBpVXa-210-126.png_110x10000.jpg",
+                "desc": "目的地"
+            }, {
+                "id": "06",
+                "imgUrl": "//gw.alicdn.com/tfs/TB1DoXFwHsrBKNjSZFpXXcXhFXa-210-126.png_110x10000.jpg",
+                "desc": "机票"
+            }
+        ],
+        "tableItems":[
+            {
+                "id": "01",
+                "title": "出境游",
+                "desc": "飞遍全球"
+            }, {
+                "id": "02",
+                "title": "国内游",
+                "desc": "精选路线"
+            }, {
+                "id": "03",
+                "title": "周边游",
+                "desc": "乐趣无限"
+            }, {
+                "id": "04",
+                "title": "飞猪购",
+                "desc": "免费预约"
+            }, {
+                "id": "05",
+                "title": "签证/签注",
+                "desc": "在线办理"
+            }, {
+                "id": "06",
+                "title": "用车",
+                "desc": "领劵"
+            } ,{
+                "id": "07",
+                "title": "邮轮游",
+                "desc": "住海上城堡"
+            } ,{
+                "id": "08",
+                "title": "全部",
+                "desc": "推荐更多"
+            } ,{
+                "id": "09",
+                "title": "出境游",
+                "desc": "飞遍全球"
+            }, {
+                "id": "10",
+                "title": "出境游",
+                "desc": "飞遍全球"
+            }, {
+                "id": "11",
+                "title": "出境游",
+                "desc": "飞遍全球"
+            }, {
+                "id": "12",
+                "title": "出境游",
+                "desc": "飞遍全球"
+            }
+        ]
+    }
+    
+}

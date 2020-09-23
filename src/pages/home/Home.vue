@@ -6,6 +6,7 @@
     </div>
     <home-icons :list='iconImgs'/>
     <home-table :list='tableItems'/>
+    <home-recommend :list='recommendList' />
 </div>
 </template>
 
@@ -14,6 +15,7 @@ import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
 import HomeIcons from './components/Icons'
 import HomeTable from './components/Table'
+import HomeRecommend from './components/Recommend'
 import axios from 'axios'
 export default {
   name: 'Home',
@@ -21,13 +23,15 @@ export default {
     HomeHeader,
     HomeSwiper,
     HomeIcons,
-    HomeTable
+    HomeTable,
+    HomeRecommend
   },
   data () {
     return {
       swiperImgs: [],
       iconImgs: [],
-      tableItems: []
+      tableItems: [],
+      recommendList: []
     }
   },
   methods: {
@@ -42,6 +46,7 @@ export default {
         this.swiperImgs = data.swiperImgs
         this.iconImgs = data.iconImgs
         this.tableItems = data.tableItems
+        this.recommendList = data.recommendList
       }
     }
   },
